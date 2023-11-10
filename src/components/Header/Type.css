@@ -1,0 +1,13 @@
+.custom-typewriter-cursor::before {
+    content: '<'; /* Replace '|' with the character you want to use as the cursor */
+    color: red; /* Change the cursor color */
+    font-size: 24px; /* Change the cursor size */
+    /* Add any other cursor styling you need */
+  }
+  /* .broad{
+    font-size: x-large;
+    font-weight: bold;
+  }
+  h1{
+    font-weight: bold;
+  } */

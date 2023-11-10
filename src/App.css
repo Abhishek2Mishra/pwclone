@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+.animated-div {
+  transition: transform 0.3s ease-out, opacity 0.3s ease-out;
+}
+
+.hidden {
+  transform: translateY(-100%);
+  opacity: 0;
+  pointer-events: none;
+}

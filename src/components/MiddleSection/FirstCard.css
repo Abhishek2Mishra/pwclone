@@ -1,0 +1,17 @@
+.card{
+    display: flex;
+    align-items: center;
+    /* flex-direction: ;
+     */
+     gap: 10px;
+}
+.card-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid whitesmoke;
+    padding-right: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}

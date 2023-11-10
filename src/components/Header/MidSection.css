@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+    background-color: #FFFFFF;
+}
+.btn{
+    background-color: #D2614B;
+    border: 2px solid red;
+    height: 50px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+.right-section img{
+    height: 450px;
+    margin-top: 70px;
+}
+.heading{
+    font-size: x-large;
+}
